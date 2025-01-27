@@ -1,0 +1,19 @@
+torch
+transformers
+timm>=0.9.16
+accelerate
+sentencepiece
+attrdict
+einops
+
+# for gradio demo
+gradio
+gradio-client
+mdtex2html
+pypinyin
+tiktoken
+tqdm
+colorama
+Pygments
+markdown
+SentencePiece
